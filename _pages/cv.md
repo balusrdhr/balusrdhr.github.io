@@ -14,6 +14,6 @@ Education
 * Ph.D in Astrophysics, University of Melbourne, Australia, 2020-2023(expected)
 * 5-Year Integrated M.S. in Physics (specialised in Astrophysics), Pondicherry University, India, 2019
 
-<iframe src="/files/pdf/Balu_Sreedhar_CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/files/cv/Balu_Sreedhar_CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-You can download a PDF copy of my CV [here](/files/pdf/Balu_Sreedhar_CV.pdf).
+You can download a PDF copy of my CV [here](/files/cv/Balu_Sreedhar_CV.pdf).

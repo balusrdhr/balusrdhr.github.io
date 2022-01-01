@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-I spent a considerable amount of aimlessly scolling through academic websites and other intersting tidbits. This page will be a placeholder of my _curated_ links.
+I spent a considerable amount of aimlessly scolling through academic websites and other intersting tidbits. This page will be a placeholder for my _curated_ links.
 

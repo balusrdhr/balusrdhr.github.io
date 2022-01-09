@@ -28,6 +28,8 @@ tags:
     $$
     
     The mistake was in the $\Delta k$. I used to think that that $\Delta k = \frac{2\pi}{L}$which is just the fundamental frequency of the simulation box. But it should be the bin-width in $k$-space.
+
+<!--more-->
     
     Now, I should have realised this a long time ago since cosmic variance error is similar to a Poisson counting error and $N_c$ is just the number of modes in the $k$-bin.
     

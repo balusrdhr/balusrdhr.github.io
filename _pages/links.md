@@ -11,7 +11,7 @@ redirect_from:
 
 I spent a considerable amount of aimlessly scolling through academic websites and other interesting tidbits. This page will be a placeholder for my _curated_ links.
 
-### Useful links:
+### __Useful links__:
 * [NASA/IPAC Extragalactic Database](https://ned.ipac.caltech.edu/) and the [LEVEL5](https://ned.ipac.caltech.edu/level5/)
 * [astro-ph/new](https://arxiv.org/list/astro-ph/new), [astrobites](https://astrobites.org/), [AAS Nova](https://aasnova.org/)
 

@@ -10,7 +10,8 @@ redirect_from:
 {% include base_path %}
 
 I spent a considerable amount of aimlessly scolling through academic websites and other interesting tidbits. This page will be a placeholder for my _curated_ links.
-Eveyrthing is in this page is coloured by my own personal tastes obviously. And if you think I have read and know everything here, you have a much higher opinion of me than myself!
+
+Eveyrthing in this page obviously is coloured by my personal tastes. And if you think I have read and know everything here, you have a much higher opinion of me than myself!
 
 ## Useful links:
 

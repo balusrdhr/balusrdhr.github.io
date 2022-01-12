@@ -11,7 +11,7 @@ redirect_from:
 
 I spent a considerable amount of aimlessly scolling through academic websites and other interesting tidbits. This page will be a placeholder for my _curated_ links.
 
-Eveyrthing in this page obviously is coloured by my personal tastes. And if you think I have read and know everything here, you have a much higher opinion of me than myself!
+Everything in this page is obviously coloured by my personal tastes. And if you think I have read and know everything here, you have a much higher opinion of me than myself!
 
 ## Useful links:
 
@@ -32,3 +32,7 @@ If you enjoy the _physics_ in astrophysics you might enjoy the following:
 * [Prof. David H. Weinberg](https://www.astronomy.ohio-state.edu/weinberg.21/)'s lecture notes
 * [Prof. Eiichiro Komatsu](https://wwwmpa.mpa-garching.mpg.de/~komatsu/lectureseries/)'s group's lecture notes
 
+## Miscellanea
+
+* [Four golden lessons](https://www.nature.com/articles/426389a.pdf)
+* [Belief and knowledge](https://ned.ipac.caltech.edu/level5/March07/Quinn/Quinn.html)

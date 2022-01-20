@@ -11,7 +11,7 @@ redirect_from:
 
 I spent a considerable amount of aimlessly scolling through academic websites and other interesting tidbits. This page will be a placeholder for my _curated_ links.
 
-Everything in this page is obviously coloured by my personal tastes. And if you think I have read and know everything here, you have a much higher opinion of me than myself!
+Everything in this page is obviously coloured by my personal tastes. And if you think I have read and know everything here, you have a much higher opinion of me than I do myself!
 
 ## Useful links:
 
@@ -20,7 +20,7 @@ Everything in this page is obviously coloured by my personal tastes. And if you 
 
 ## Coding (mostly Python):
 
-There are plenty of resoures out there for learning coding especially python. The best ones I have come acros, particularly from an astro perspective, are the following:
+There are plenty of resoures out there for learning coding especially python. The best ones I have come across, particularly from an astro perspective, are the following:
 * [Imad Pasha](https://github.com/prappleizer)'s [Python for Astronomers](https://prappleizer.github.io/)
 * [Jake VanderPlas](http://vanderplas.com/)'s [blog](http://jakevdp.github.io/) and [books](https://jakevdp.github.io/pages/about.html)
 

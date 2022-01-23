@@ -5,8 +5,7 @@ permalink: /posts/2022/01/cosmic-variance
 excerpt_separator: <!--more-->
 toc: true
 tags:
-  - research
-  - notes
+  - research notes
   - cosmic variance
 ---
 

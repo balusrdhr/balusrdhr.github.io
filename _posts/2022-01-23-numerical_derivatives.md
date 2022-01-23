@@ -62,7 +62,7 @@ tags:
     \end{equation}
    $$
     
-   Wikipedia terms this the [Difference quotient]([https://en.wikipedia.org/wiki/Difference_quotient](https://en.wikipedia.org/wiki/Difference_quotient)) and this is the definition of the derivative as well, in the case when the RHS goes to 0.
+   Wikipedia terms this the [Difference quotient](https://en.wikipedia.org/wiki/Difference_quotient) and this is the definition of the derivative as well, in the case when the RHS goes to 0.
     
    We need two data points here, $f(x+h)$ and $f(x)$, and we are throwing away all the terms higher than $n>1$. But we can do better and keep more terms terms from equation 1 but still need only two data points.
     
@@ -93,7 +93,7 @@ tags:
     \end{equation}
    $$
     
-   Equation 2 is known as the [Symmetric derivative]([https://en.wikipedia.org/wiki/Symmetric_derivative](https://en.wikipedia.org/wiki/Symmetric_derivative)). We still need only two data points: $f(x+h)$ and $f(x-h)$. Plus we have only neglected the terms with $n>2$. Interestingly the value of the function where we’re trying to calculate the derivative, $x$, cancels out!
+   Equation 2 is known as the [Symmetric derivative](https://en.wikipedia.org/wiki/Symmetric_derivative). We still need only two data points: $f(x+h)$ and $f(x-h)$. Plus we have only neglected the terms with $n>2$. Interestingly the value of the function where we’re trying to calculate the derivative, $x$, cancels out!
     
    But I promised to explain how the second order derivative in equation 11 comes about.
     

@@ -36,7 +36,7 @@ tags:
     \end{equation}
    $$
     
-   where $f^n(x)$ is the $n$-th derivative with respect to $x$ $$, i.e. $(\frac{d^n f(x)}{dx^n})$.
+   where $f^n(x)$ is the $n$-th derivative with respect to $x$, i.e. $(\dfrac{d^n f(x)}{dx^n})$.
     
    If you ignore the terms with $n>1$ you get
     

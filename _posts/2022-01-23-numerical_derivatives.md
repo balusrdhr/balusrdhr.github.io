@@ -13,7 +13,7 @@ tags:
 1. Last week was pretty slow and didn’t get much done. Found a numerical bug in the code though!
 2. This week was one of the better ones. I have been trying to code up the Fisher matrices and had to look up numerical derivatives.
     
-   A good guide to Fisher matrices(and that too with astro examples) is [Dan Coe’s article]([https://ui.adsabs.harvard.edu/abs/2009arXiv0906.4123C/abstract](https://ui.adsabs.harvard.edu/abs/2009arXiv0906.4123C/abstract)). The topic for today is not Fisher matrices so I will not write more about that here, though I will do it in future.
+  A good guide to Fisher matrices(and that too with astro examples) is [Dan Coe’s article](https://ui.adsabs.harvard.edu/abs/2009arXiv0906.4123C/abstract). The topic for today is not Fisher matrices so I will not write more about that here, though I will do it in future.
 
 <!--more-->
     

@@ -31,7 +31,7 @@ If you enjoy the _physics_ in astrophysics you might enjoy the following:
 * [Prof. Cole Miller](https://www.astro.umd.edu/~miller/)'s lecture notes
 * [Prof. David H. Weinberg](https://www.astronomy.ohio-state.edu/weinberg.21/)'s lecture notes
 * [Prof. Eiichiro Komatsu](https://wwwmpa.mpa-garching.mpg.de/~komatsu/lectureseries/)'s group's lecture notes
-
+* [Prof. Frank van den Bosch](https://campuspress.yale.edu/vdbosch/)'s lecture notes
 ## Miscellanea
 
 * [Four golden lessons](https://www.nature.com/articles/426389a.pdf)

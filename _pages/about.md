@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year PhD student at the University of Melbourne supervised by [Prof. Stuart Wyithe](https://blogs.unimelb.edu.au/stuart-wyithe/){:target="\_blank"} and [Dr Bradley Greig](https://findanexpert.unimelb.edu.au/profile/195326-bradley-greig). My research focuses mostly on an early phase in the history of our Universe known as the [Epoch of Reionisation](https://astro.physics.unimelb.edu.au/research/epoch-of-reionisation/) (EoR) which happened in the first billion years after the Big Bang.
+I'm a third-year PhD student at the University of Melbourne supervised by [Prof. Stuart Wyithe](https://blogs.unimelb.edu.au/stuart-wyithe/){:target="\_blank"} and [Dr Bradley Greig](https://findanexpert.unimelb.edu.au/profile/195326-bradley-greig). My research focuses mostly on an early phase in the history of our Universe known as the [Epoch of Reionisation](https://astro.physics.unimelb.edu.au/research/epoch-of-reionisation/) (EoR) which happened in the first billion years after the Big Bang.
 
 The EoR constitutes the last major phase-change in the history of our Universe when almost all of the neutral hydrogen atoms were reionised by the photons from the first generation of stars and galaxies. This had an impact on all subsequent galaxy formation and evolution. One of the cool things about astronomy is that when you look deeper into the sky, you are also looking back in time. Several low-frequency radio telescopes are either in operation/planned to observe the 21-cm emission of hydrogen from the EoR. I am interested in simulating what these telescopes will observe and how we can efficiently model the young Universe to extract the maximum amount of information about this exciting period.
 

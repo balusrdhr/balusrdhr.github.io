@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <details open>
-<summary> <font size="3"> Fisher matrix forecasts on the astrophysics of galaxies during the epoch of reionisation from the 21-cm power spectra </font> </summary> 
+<summary> <font size="5"> Fisher matrix forecasts on the astrophysics of galaxies during the epoch of reionisation from the 21-cm power spectra </font> </summary> 
 
 [🔗](https://ui.adsabs.harvard.edu/abs/arXiv:2305.05104)
 

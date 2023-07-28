@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-* Fisher matrix forecasts on the astrophysics of galaxies during the epoch of reionisation from the 21-cm power spectra
+3\. Fisher matrix forecasts on the astrophysics of galaxies during the epoch of reionisation from the 21-cm power spectra
 <details>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<summary>Abstract<a href="https://ui.adsabs.harvard.edu/abs/arXiv:2305.05104">[🔗]</a></summary>
 

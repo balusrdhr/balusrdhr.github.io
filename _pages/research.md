@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 3\. Fisher matrix forecasts on the astrophysics of galaxies during the epoch of reionisation from the 21-cm power spectra
-<details>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<summary>Abstract<a href="https://ui.adsabs.harvard.edu/abs/arXiv:2305.05104">[🔗]</a></summary>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<details>
+<summary>Abstract<a href="https://ui.adsabs.harvard.edu/abs/arXiv:2305.05104">[🔗]</a></summary>
 
   The hyperfine 21-cm transition of neutral hydrogen from the early Universe ($z>5$) is a sensitive probe of the formation and evolution of the first luminous sources. Using the Fisher matrix formalism we explore the complex and degenerate high-dimensional parameter space associated with the high-$z$ sources of this era and forecast quantitative constraints from a future 21-cm power spectrum  (21-cm PS) detection. This is achieved using MERAXES, a coupled semi-analytic galaxy formation model and reionisation simulation, applied to an $N$-body halo merger tree with a statistically complete population of all atomically cooled galaxies out to $z\sim20$. Our mock observation assumes a 21-cm detection spanning $z \in [5, 24]$ from a 1000 h mock observation with the forthcoming Square Kilometre Array and is calibrated with respect to ultraviolet luminosity functions (UV LFs) at $z\in[5, 10]$, the optical depth of CMB photons to Thompson scattering from Planck, and various constraints on the IGM neutral fraction at $z > 5$. In this work, we focus on the X-ray luminosity, ionising UV photon escape fraction, star formation and supernova feedback of the first galaxies. We demonstrate that it is possible to recover 5 of the 8 parameters describing these properties with better than $50$ per cent precision using just the 21-cm PS. By combining with UV LFs, we are able to improve our forecast, with 5 of the 8 parameters constrained to better than $10$ per cent (and all below 50 per cent).
 

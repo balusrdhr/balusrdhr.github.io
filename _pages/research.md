@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 # First author papers
-Note: Co-author papers are marked with a $\dag$
+Note: Co-author papers are marked with a $\dagger$
 ## 2\. Fisher matrix forecasts on the astrophysics of galaxies during the epoch of reionisation from the 21-cm power spectra
 <details>
 <summary>Click for abstract <a href="https://ui.adsabs.harvard.edu/abs/arXiv:2305.05104">[link 🔗 to paper]</a></summary>

@@ -19,7 +19,7 @@ Note: Co-authored papers are marked with a $\dagger$
 
 </details>
 
-## 2\$\dagger$.	Implications of $z{\gtrsim}12$ JWST galaxies for galaxy formation at high redshift
+## 2\$^\dagger$.	Implications of $z{\gtrsim}12$ JWST galaxies for galaxy formation at high redshift
 <details>
 <summary>Click for abstract <a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230517959Q/abstract">[link 🔗 to paper]</a></summary>
 

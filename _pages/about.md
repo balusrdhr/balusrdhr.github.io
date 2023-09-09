@@ -18,4 +18,4 @@ I am from a small town in the south Indian state of [Kerala](https://en.wikipedi
 
 I found my passion in astrophysics quite fortuitously when I opted to specialise in it for my masters. I also had a great time working with [Assoc. Prof. Maheswar Gopinathan](https://www.iiap.res.in/?q=user/541) at the [Indian Institute of Astrophysics](https://www.iiap.res.in/), Bangalore during my masters. After completing my masters, I spent some time as a visiting student in the [DISTORTION](https://wwws.rri.res.in/DISTORTION/) group at the [Raman Research Institute](https://www.rri.res.in/).
 
-Note about my name: We employ a [patronymic](https://en.wikipedia.org/wiki/Patronymic#South_Asia) naming system where I am from which means that Sreedhar is my father's given name and not my family name. (**TLDR**: Mr Sreedhar is my father and I am Mr Balu!)
+Note about my name: (**TLDR**: Mr Sreedhar is my father and I am Mr Balu!) We employ a [patronymic](https://en.wikipedia.org/wiki/Patronymic#South_Asia) naming system where I am from which means that Sreedhar is my father's given name and not my family name. 

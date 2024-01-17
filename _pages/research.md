@@ -9,7 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Note: Co-authored papers are marked with a $\dagger$
+Note: Papers in which I am not the lead author are marked with a $\dagger$.
+
+## 4\$^\dagger$. Semi-analytic modelling of Pop. III star formation and metallicity evolution - I. Impact on the UV luminosity functions at $z = 9-16$ 
+<details>
+<summary>Click for abstract <a href="https://ui.adsabs.harvard.edu/abs/arXiv:2401.07396">[link 🔗 to paper]</a></summary>
+
+We implemented Population III (Pop. III) star formation in mini-halos within the MERAXES semi-analytic galaxy formation and reionisation model, run on top of a $N$-body simulation with $L = 10 h^{-1}$ cMpc with 2048$^3$ particles resolving all dark matter halos down to the mini-halos ($\sim 10^5 M_\odot$). Our modelling includes the chemical evolution of the IGM, with metals released through supernova-driven bubbles that expand according to the Sedov-Taylor model. We found that SN-driven metal bubbles are generally small, with radii typically of 150 ckpc at $z = 6$. Hence, the majority of the first galaxies are likely enriched by their own star formation. However, as reionization progresses, the feedback effects from the UV background become more pronounced, leading to a halt in star formation in low-mass galaxies, after which external chemical enrichment becomes more relevant. We explore the sensitivity of the star formation rate density and stellar mass functions on the unknown values of free parameters. We also discuss the observability of Pop. III dominated systems with JWST, finding that the inclusion of Pop. III galaxies can have a significant effect on the total UV luminosity function at $z = 12 - 16$. Our results support the idea that the excess of bright galaxies detected with JWST might be explained by the presence of bright top-heavy Pop. III dominated galaxies without requiring an increased star formation efficiency.
+</details>
+
 
 ## 3\. Fisher matrix forecasts on the astrophysics of galaxies during the epoch of reionisation from the 21-cm power spectra
 <details>

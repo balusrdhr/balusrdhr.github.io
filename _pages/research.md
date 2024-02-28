@@ -12,7 +12,7 @@ redirect_from:
 Note: Papers in which I am not the lead author are marked with a $\dagger$.
 
 
-## 5\$^\dagger$. The Impact of ionization Morphology and X-ray Heating on the Cosmological 21cm Skew Spectrum
+## 5\$^\dagger$. The impact of ionisation morphology and X-ray heating on the cosmological 21-cm skew spectrum
 <details>
 <summary>Click for abstract <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240217254C/abstract">[link 🔗 to paper]</a></summary>
 

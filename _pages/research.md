@@ -11,7 +11,15 @@ redirect_from:
 
 Note: Papers in which I am not the lead author are marked with a $\dagger$.
 
-## 4\$^\dagger$. Semi-analytic modelling of Pop. III star formation and metallicity evolution - I. Impact on the UV luminosity functions at $z = 9-16$ 
+
+## 5\$^\dagger$. The Impact of ionization Morphology and X-ray Heating on the Cosmological 21cm Skew Spectrum
+<details>
+<summary>Click for abstract <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240217254C/abstract">[link 🔗 to paper]</a></summary>
+
+The cosmological 21-cm signal offers a potential probe of the early Universe and the first ionising sources. Current experiments probe the spatially-dependent variance (Gaussianity) of the signal through the power spectrum (PS). The signal however is expected to be highly non-Gaussian due to the complex topology of reionisation and X-ray heating. We investigate the non-Gaussianities of X-ray heating and reionisation, by calculating the skew spectrum (SS) of the 21-cm signal using MERAXES, which couples a semi-analytic galaxy population with semi-numerical reionisation simulations. The SS is the cross-spectrum of the quadratic temperature brightness field with itself. We generate a set of seven simulations from  $z=30$ to $z=5$, varying the halo mass threshold for hosting star-formation, the X-ray luminosity per star-formation rate, and the minimum X-ray energy escaping host galaxies. We find the SS is predominantly negative as a function of redshift, transitioning to positive towards the start of reionisation, and peaking during the midpoint of reionisation. We do not see a negative dip in the SS during reionisation, likely due to the specifics of modelling ionisation sources. We normalise the SS by the PS during reionisation isolating the non-Gaussianities. We find a trough ($k\sim0.1$ Mpc$^{−1}$) and peak ($k\sim0.4-1$ Mpc$^{−1}$) in the normalised SS during the mid to late periods of reionisation. These correlate to the ionisation topology, and neutral islands in the IGM. We calculate the cosmic variance of the normalised SS, and find these features are detectable in the absence of foregrounds with the SKA_LOW.
+</details>
+
+## 4\$^\dagger$. Semi-analytic modelling of Pop. III star formation and metallicity evolution - I. Impact on the UV luminosity functions at $z = 9-16$
 <details>
 <summary>Click for abstract <a href="https://ui.adsabs.harvard.edu/abs/arXiv:2401.07396">[link 🔗 to paper]</a></summary>
 
